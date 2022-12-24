@@ -6,5 +6,5 @@
 
 [Project 1](./Project%201/readme.md)
 
-
+[Project 2](./HTML%20and%20CSS%20Projects/Project%202/readme.md)
 
