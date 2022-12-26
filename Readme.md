@@ -9,6 +9,8 @@
 
 [Project 3](./HTML%20and%20CSS%20Projects/Project%203/readme.md)
 
+[Project 4](./HTML%20and%20CSS%20Projects/Project%204/readme.md)
+
 ## Tailwind Projects
 
-[Project 1](./Tailwind%20Projects/VS%20Clone/readme.md)
+[VS Clone](./Tailwind%20Projects/VS%20Clone/readme.md)
