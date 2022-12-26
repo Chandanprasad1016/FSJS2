@@ -11,6 +11,8 @@
 
 [Project 4](./HTML%20and%20CSS%20Projects/Project%204/readme.md)
 
+[Project 5](./HTML%20and%20CSS%20Projects/Project%205/readme.md)
+
 ## Tailwind Projects
 
 [VS Clone](./Tailwind%20Projects/VS%20Clone/readme.md)
