@@ -5,4 +5,4 @@ In this project the assets are provided and the output image for make this outpu
 
 ## Here is my Output
 
-![Project 6](./myOutput-Justice.png)
+![Project 6](./myOutputJustice.png)
