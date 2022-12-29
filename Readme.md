@@ -13,4 +13,4 @@
 
 [Project 5](./HTML%20and%20CSS%20Projects/Project%205/readme.md)
 
-[Project 6](./HTML%20and%20CSS%20Projects/Project%206/)
+[Project 6](./HTML%20and%20CSS%20Projects/Project%206/readme.md)
