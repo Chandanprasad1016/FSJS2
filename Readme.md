@@ -1,5 +1,10 @@
 # Full Stack javaScript 2.0
 
+## Assignment Articles
+
+[1. Introduction to Web and HTML](https://ayashadevikar.hashnode.dev/introduction-to-web-and-html)
+
+
 ## HTML AND CSS Assignment
 
 
@@ -17,4 +22,4 @@
 
 ## Tailwind Projects
 
-[Visual Studio Clone](./Tailwind%20Projects/VS%20Clone/readme.md)
+[Visual Studio Clone](https://visual-studio-clone-tailwind.netlify.app/)
