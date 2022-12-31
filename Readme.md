@@ -1,8 +1,8 @@
 # Full Stack javaScript 2.0
 
-## Assignment Articles
+## Assignment Articles Links
 
-[1. Introduction to Web and HTML](https://ayashadevikar.hashnode.dev/introduction-to-web-and-html)
+[1. Introduction to Web and HTML](./Assignment%20Articles/Article%201-%20Introduction%20to%20Web%20and%20HTML/https://ayashadevikar.hashnode.dev/introduction-to-web-and-html)
 
 
 ## HTML AND CSS Assignment
