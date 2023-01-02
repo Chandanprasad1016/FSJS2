@@ -6,6 +6,8 @@
 
 [2. CSS Selectors](https://ayashadevikar.hashnode.dev/css-selectors)
 
+[3. CSS Positions](https://ayashadevikar.hashnode.dev/css-positions)
+
 
 ## HTML AND CSS Assignment
 
