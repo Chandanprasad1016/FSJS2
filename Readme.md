@@ -8,6 +8,8 @@
 
 [3. CSS Positions](https://ayashadevikar.hashnode.dev/css-positions)
 
+[4. Flexbox and it's Properties](https://ayashadevikar.hashnode.dev/flexbox-and-its-properties)
+
 
 ## HTML AND CSS Assignment
 
@@ -27,3 +29,4 @@
 ## Tailwind Projects
 
 [Visual Studio Clone](https://visual-studio-clone-tailwind.netlify.app/)
+
