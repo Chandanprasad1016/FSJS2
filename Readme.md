@@ -10,6 +10,10 @@
 
 [4. Flexbox and it's Properties](https://ayashadevikar.hashnode.dev/flexbox-and-its-properties)
 
+<!-- [5. CSS Box Model](https://ayashadevikar.hashnode.dev/css-box-model) -->
+
+<!-- [6. Array Methods in JavaScript](https://ayashadevikar.hashnode.dev/array-methods-in-javascript) -->
+
 
 ## HTML AND CSS Assignment
 
@@ -25,6 +29,8 @@
 [Project 5](./HTML%20and%20CSS%20Projects/Project%205/readme.md)
 
 [Project 6](./HTML%20and%20CSS%20Projects/Project%206/readme.md)
+
+[Project 8- Hosting Landing Page](./HTML%20and%20CSS%20Projects/Project%208-%20Hosting%20Landing%20Page/readme.md)
 
 ## Tailwind Projects
 
