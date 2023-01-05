@@ -8,6 +8,6 @@
 
 [4. Flexbox and it's Properties](https://ayashadevikar.hashnode.dev/flexbox-and-its-properties)
 
-<!-- [5. CSS Box Model](https://ayashadevikar.hashnode.dev/css-box-model) -->
+ [5. CSS Box Model](https://ayashadevikar.hashnode.dev/css-box-model) 
 
 <!-- [6. Array Methods in JavaScript](https://ayashadevikar.hashnode.dev/array-methods-in-javascript) -->
