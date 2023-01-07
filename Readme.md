@@ -32,6 +32,8 @@
 
 [Project 8- Hosting Landing Page](./HTML%20and%20CSS%20Projects/Project%208-%20Hosting%20Landing%20Page/readme.md)
 
+[Project 9- Game Landing Page](./HTML%20and%20CSS%20Projects/Project%209-%20Game%20Landing%20Page/readme.md)
+
 ## Tailwind Projects
 
 [Visual Studio Clone](https://visual-studio-clone-tailwind.netlify.app/)

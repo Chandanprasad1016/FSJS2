@@ -1,0 +1,700 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   
+}
+
+
+
+ body{
+    max-width: 1440px;
+     margin: auto;
+     overflow-x: hidden;
+    
+    
+} 
+
+header{
+    background: url(./Assets/Photos/futuristic-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 680px;
+    
+}
+
+.navbar > .logo-img{
+      height: 50px;
+      display: flex;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #ffffff;
+    padding-top: 30px;
+    
+}
+
+.navbar > .lists{
+    display: flex;
+    list-style-type: none;
+    gap: 40px;
+    align-items: center;
+}
+
+.navbar > .button{
+    display: flex;
+    gap: 30px;
+   
+}
+
+.navbar > .button > .signin{
+    border: none;
+    background-color: Transparent;
+    color: #ffffff;
+    
+}
+
+.navbar > .button > .signup{
+    background-color: #DE4839;
+    border: none;
+    padding: 0 30px; 
+    height: 35px;
+    color: #ffffff;
+    margin-top: 6px;
+}
+
+.left-section{
+    display: flex; 
+    flex-direction: column; 
+    row-gap: 15px;
+      
+}
+
+.play-game{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+     
+    
+     color: #ffffff;
+}
+
+
+.left-section{
+   position: relative;
+   left: 110px;
+   top: 150px;
+}
+
+.left-section > div > h1{
+    font-size: 50px;
+    width: 480px;
+}
+
+.left-section > div > p{
+    width: 450px;
+}
+
+.left-section > div > .started-btn{
+    background-color: #DE4839;
+    color: #ffffff;
+    border: none;
+    padding: 10px 30px;
+}
+
+.left-section > div > .learn-btn{
+       background-color: transparent;
+       border: 2px solid #ffffff;
+       color: #ffffff;
+       padding: 10px 30px;
+}
+
+.left-section > .playgame-btn{
+    display: flex;
+    gap: 20px;
+}
+
+.right-section{
+    display: grid;
+    position: relative;
+    top: 200px;
+}   
+
+
+ .heading{
+    display: flex;
+     position: relative;
+     right: 230px;
+    top: 90px; 
+    gap: 8px;
+    
+} 
+
+.heading > .dash-img{
+   margin-top: -60px;
+} 
+
+.heading > .right-arrow{
+    width: 50px;
+}  
+
+.heading > h2{ 
+    width: 240px; 
+    }   
+
+.main > h1{
+    padding-top: 200px;
+    width: 540px;
+    text-align: center;
+    margin-left: 500px;
+    font-size: 40px;
+ }
+ 
+ .popular-game{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    padding-bottom: 50px;
+   
+ }
+
+
+
+ .popular-game > .card1{
+    
+      height: 220px;
+      width: 200px;
+      padding-top: 100px;
+      background-image: url(./Assets/Photos/image\ 2.png);
+      background-position: -149px;
+      background-size: cover;
+      
+     
+ }
+
+ .card1 > .solider{
+       padding-top: 50px;
+       color: #ffffff;
+       margin-left: 8px;
+     
+      
+ }
+
+ .card1 > .solider > h2{
+    font-size: 14px;
+   
+ }
+
+ .card1 > .solider > p{
+    font-size: 10px;
+ }
+
+ .card1 > .solider > button{
+      background-color: #DE4839;
+      color: #ffffff;
+      border: none;
+      padding: 6px 10px;
+      margin-left: 53px;
+      font-size: 12px;
+ }
+
+
+.card1 > .star1-img{
+    margin-left: 8px;
+}
+
+
+.popular-game > .card2{
+    
+    height: 220px;
+    width: 200px;
+    padding-top: 100px;
+    background-image: url(./Assets/Photos/image\ 4.png);
+    background-position: -149px;
+    background-size: cover;
+    
+   
+}
+
+.card2 > .wariors{
+     padding-top: 50px;
+     color: #ffffff;
+     margin-left: 8px;
+   
+    
+}
+
+.card1 > .wariors > h2{
+  font-size: 14px;
+ 
+}
+
+.card2 > .wariors > p{
+  font-size: 10px;
+}
+
+.card2 > .wariors > button{
+    background-color: #DE4839;
+    color: #ffffff;
+    border: none;
+    padding: 6px 10px;
+    margin-left: 53px;
+    font-size: 12px;
+}
+
+
+.card2 > .star2-img{
+  margin-left: 8px;
+}
+
+.popular-game > .card3{
+    
+    height: 220px;
+    width: 200px;
+    padding-top: 100px;
+    background-image: url(./Assets/Photos/image\ 3.png);
+    background-position: -149px;
+    background-size: cover;
+    
+   
+}
+
+.card3 > .pubjiken{
+     padding-top: 50px;
+     color: #ffffff;
+     margin-left: 8px;
+   
+    
+}
+
+.card3 > .pubjiken > h2{
+  font-size: 14px;
+ 
+}
+
+.card3 > .pubjiken > p{
+  font-size: 10px;
+}
+
+.card3 > .pubjiken > button{
+    background-color: #DE4839;
+    color: #ffffff;
+    border: none;
+    padding: 6px 10px;
+    margin-left: 53px;
+    font-size: 12px;
+}
+
+
+.card3 > .star3-img{
+  margin-left: 8px;
+}
+
+
+.popular-game > .card4{
+    
+    height: 220px;
+    width: 200px;
+    padding-top: 100px;
+    background-image: url(./Assets/Photos/Rectangle\ 18.png);
+    background-position: -149px;
+    background-size: cover;
+    
+   
+}
+
+.card4 > .garela{
+     padding-top: 50px;
+     color: #ffffff;
+     margin-left: 8px;
+   
+    
+}
+
+.card4 > .garela > h2{
+  font-size: 14px;
+ 
+}
+
+.card4 > .garela > p{
+  font-size: 10px;
+}
+
+.card4 > .garela > button{
+    background-color: #DE4839;
+    color: #ffffff;
+    border: none;
+    padding: 6px 10px;
+    margin-left: 53px;
+    font-size: 12px;
+}
+
+
+.card4 > .star4-img{
+  margin-left: 8px;
+}
+
+.war{
+    padding-top: 100px;
+    display: flex;
+   
+       
+}
+
+.war > .war-img > img{
+    width: 400px;
+    height: 300px;
+}
+
+.war-game{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+.war > .war-game > h1{
+      width: 300px;
+      font-size: 30px;
+}
+
+.war-game > div > p{
+    width: 400px;
+    font-size: 15px;
+}
+
+.war-game > .explore-btn{
+    display: flex;
+    gap: 20px;
+}
+
+.war-game > .explore-btn > button:nth-child(1){
+         background-color: #DE4839;
+         color: #ffffff;
+         border: none;
+         padding: 5px 10px ;
+} 
+
+.war-game > .explore-btn > button:nth-child(2){
+    border: 1px solid #DE4839;
+    color: #DE4839;
+    background-color: #ffffff;
+    padding: 5px 10px ;
+} 
+
+.game-recommend{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.arrow{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 150px;
+}
+
+.game-recommend > .arrow{
+    display: flex;
+}
+
+.game-recommend > .arrow > div > h1{
+    width: 350px;
+    font-size: 30px;
+    margin-left: -120px;
+}
+
+
+.game-recommend > .arrow > div > img:nth-child(1){
+             background-color: rgb(206, 176, 187);
+             padding: 20px 10px;
+             
+}
+
+.game-recommend > .arrow > div > img:nth-child(2){
+    
+    background-color: #DE4839;
+    color: #ffffff;
+    padding: 22px 10px;
+    width: 44px;
+}
+
+.game-recommend > .game1{
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+
+}
+
+
+.game-recommend > .game1 > .action{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 20px;
+}
+
+.game-recommend > .game1 > .adventure{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 20px;
+}
+
+.game-recommend > .game1 > div > .battle-img{
+    height: 200px;
+}
+
+.game-recommend > .game1 > div > h2{
+    width: 245px;
+    font-size: 20px;
+}
+
+.game-recommend > .game1 > div > span{
+   color: #DE4839;
+}
+
+.game-recommend > .game1 > div > p{
+    font-size: 14px;
+    width: 250px;
+    color: #808080;
+ }
+
+ .game-recommend > .game1 > div > button{
+      background-color: #DE4839;
+      border: none;
+      color: #ffffff;
+      padding: 10px 15px;
+      width: 110px;
+ }
+
+
+.game-recommend > .game1 > div > .snake-img{
+    height: 200px;
+}
+
+.game-recommend > .game2{
+    display: flex;
+}
+
+.game-recommend > .game2 > div > .spiderman-img{
+    height: 200px;
+}  
+
+.game-recommend > .game2 > div > .maskedhero-img{
+    height: 200px;
+}
+
+.game-recommend > .game2{
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+}
+
+.game-recommend > .game2 > .strategy{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 20px;
+}
+
+.game-recommend > .game2 > .powers{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 20px;
+}
+
+.game-recommend > .game2 > div > h2{
+    width: 245px;
+    font-size: 20px;
+}
+
+.game-recommend > .game2 > div > span{
+   color: #DE4839;
+}
+
+.game-recommend > .game2 > div > p{
+    font-size: 14px;
+    width: 250px;
+    color: #808080;
+ }
+
+ .game-recommend > .game2 > div > button{
+      background-color: #DE4839;
+      border: none;
+      color: #ffffff;
+      padding: 10px 15px;
+      width: 110px;
+ }
+
+ /* most played games */
+ .played-games{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    padding-top: 50px;
+    background-color: #0D0D0D;
+    color: #ffffff;
+    padding-bottom: 180px;
+   
+ }
+ 
+
+ .played-games > .games-heading{
+     font-size: 20px; 
+     width: 280px;
+     text-align: center;
+ }
+
+ .played-games > .para{
+    font-size: 15px;
+    width: 450px;
+    position: relative;
+    top: 80px;
+    left: 80px;
+   
+ }
+
+ .played-games > .gamesworld{
+   align-self: flex-end;
+   position: relative;
+   top: 100px; 
+   right: 437px;
+   width: 500px;
+
+  }
+
+  .played-games > .game-imgs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    position: relative;
+    top: -80px;
+    left: -70px;
+  }
+
+
+  .game1-img{
+      width: 350px;
+      height: 400px;
+  }
+
+  .game2-img{
+    width: 250px;
+    height: 400px;
+    position: relative;
+    top: 153px;
+  }
+
+  .game3-img{
+    width: 250px;
+    height: 220px;
+    position: relative;
+    top: 242px;
+  }
+
+ .experience{
+    
+    color: #ffffff;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+    background-image: url(./Assets/Photos/Rectangle\ 606.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-width: 1430px;
+    min-height: 500px;
+    background-color: #0D0D0D;
+    
+     
+ }
+
+ .experience > .uforgettable{
+ 
+  
+ }
+
+ .experience >   .exheading{
+      font-size: 30px;
+      width: 450px;
+      text-align: center;
+ }
+
+ .experience >  .para{
+    width: 330px;
+    text-align: center;
+ }
+
+ .experience >  .btn{
+    background-color: #DE4839;
+    color: #ffffff;
+    border: none;
+    padding: 10px 25px;
+ }
+
+/* footer */
+.footer{
+    background-color: #0D0D0D;
+    color: #ffffff;
+     display: flex;
+     justify-content: center;
+    
+    justify-content: space-evenly;
+    padding-top: 50px;
+    
+}
+
+.footer > .social-media-items{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.footer > .social-media-items > img{
+    height: 40px;
+    display: flex;
+    align-self: flex-start;
+}
+
+.footer > .social-media-items > .para{
+    width: 200px;
+}
+
+.footer > .social-media-items > .social-media-icons{
+      display: flex;
+      gap: 15px;
+}
+
+.footer > .articles{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.footer > .articles > ul{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+.footer > .articles > span{
+    font-size: 15px;
+}
+
+.footer > .articles > ul{
+    list-style-type: none;
+}
+
