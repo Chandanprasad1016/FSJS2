@@ -1,0 +1,387 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   /* max-width: 100%; */
+   overflow-x: hidden;
+   margin: auto;
+   font-family: 'Roboto';
+}
+
+/* navbar */
+.navbar{
+    background-image: url(./Photos/mainBackground.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-size: 100% 100%; 
+    height: 900px; 
+
+}
+
+.navbar > .header{
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: center;
+    align-items: center;
+    gap: 600px;
+    padding-top: 30px;
+}
+
+.navbar > .header > img{
+    display: flex;
+    height: 50px;
+   
+    
+}
+
+.navbar > .header >.items{
+      list-style-type: none;
+      display: flex;
+      gap: 50px;
+     color: #ffffff;
+     font-size: 18px;
+}
+
+ .horizontal-line > .line{
+    border-bottom: 2px solid #ffffff;
+    margin: 0 100px ;
+    padding: 15px;
+ }
+
+.navbar > .living-life{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    color: #ffffff;
+    position: absolute;
+    top: 300px;
+    left: 180px;
+    
+    
+}
+
+.navbar > .living-life > .heading{
+       font-size: 50px;
+       width: 480px;
+}
+
+.navbar > .living-life > .para{
+      width: 350px;
+}
+
+.navbar > .living-life > .learn-btn > button{
+    background-color: blueviolet;
+    border: none;
+    color: #ffffff;
+    padding: 15px 30px;
+    border-radius: 25px;
+    font-size: 15px;
+}
+
+/* logo images */
+
+.logo-imgs{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid #1d1d1d;
+    padding: 55px 80px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    border: none;
+    text-align: center; 
+    margin: 0px 50px;
+    position: relative;
+    top: -110px;
+}
+
+/* best estate */
+.best-estate > .estate-card1 {
+    padding-top: 500px;
+     display: grid;
+     grid-template-columns: 21% 21% 21%;
+     row-gap: 40px;
+     justify-content: center;
+     align-content: center;
+     height: 100vh;
+     width: 100%;
+}
+
+
+
+.best-estate > .estate-heading > h1{
+       font-size: 40px;
+       width: 480px;
+       text-align: center;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       position: relative;
+       left: 450px;
+}
+
+
+
+
+ .best-estate > .estate-card1 > div > img{
+      height: 300px;
+      width: 300px;
+      border-radius: 15px;
+} 
+
+ .best-estate > .estate-card1 > div > .heading{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    background-color: #ffffff;
+    border: none;
+    width: 240px;
+    padding: 12px 20px;
+    border-radius: 15px;
+    position: relative;
+    left: 25px;
+    top: -45px;
+    
+}  
+
+.best-estate > .estate-card1 > div > .heading > .price > h1{
+      font-size: 20px;
+      font-weight: 200;
+}
+
+.best-estate > .estate-card1 > div > .heading > .price > span{
+       color: rgba(34, 34, 201, 0.942);
+
+}
+
+.best-estate > .estate-card1 > div > .heading > .price {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.best-estate > .estate-card1 > div > .heading > .detail-btn > button{
+    background-color: rgba(35, 35, 177, 0.652);
+    border: none;
+    color: #ffffff;
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+
+.best-estate > .estate-card1 > .card2{
+    position: relative;
+    top: 20px;
+}
+
+
+.best-estate > .estate-card1 > .card3{
+    position: relative;
+    top: 40px;
+}
+
+.best-estate > .estate-card1 > .card4{
+    position: relative;
+    top: 60px;
+}
+
+.best-estate > .estate-card1 > .card5{
+    position: relative;
+    top: 30px;
+}
+
+.best-estate > .estate-card1 > .card7{
+    position: relative;
+    top: 30px;
+} 
+
+.best-estate > .estate-card1 > .card8{
+    position: relative;
+    top: 30px;
+} 
+
+.best-estate > .estate-card1 > .card9{
+    position: relative;
+    top: 60px;
+} 
+
+/* trendy */
+.trendy{
+   display: grid;
+   padding-top: 700px;
+}
+
+.trendy > .modern-estate1-left{
+    display: flex;
+    
+}
+
+.trendy > .modern-estate1-left > .feature1-img > img{
+      height: 400px;
+      width: 500px;
+      
+}
+
+.trendy > .modern-estate1-left > .house1-img > img{
+    height: 400px;
+    width: 364px;
+    position: relative;
+    left: -410px;
+    top: -90px;
+    border-radius: 30px;
+}
+
+.trendy > .modern-estate2-right{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.trendy > .modern-estate2-right > .heading{
+    font-size: 30px;
+    width: 400px;
+}
+
+.trendy > .modern-estate2-right > .para{
+    width: 400px;
+}
+
+.trendy > .modern-estate2-right > .btn1 > button{
+      background-color: rgba(35, 35, 177, 0.652);
+      border: none;
+      color: #ffffff;
+      padding: 15px 40px;
+      border-radius: 20px;
+      font-weight: 500;
+}
+
+.trendy > .modern-estate4-right > .feature1-img > img{
+    height: 400px;
+    width: 500px;
+    
+}
+/* newsletter */
+.newsletter{
+    padding-top: 500px;
+     border: 1px solid black;
+     padding: 60px 0px;
+     border-radius: 50px;
+     margin: 0px 50px;
+     background-color: rgba(35, 35, 177, 0.652);
+     color: #ffffff;
+     border: none;
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+     text-align: center;
+     align-items: center;
+}
+
+.newsletter > .heading{
+     font-size: 40px;
+     width: 800px;
+     font-weight: 100;
+     text-align: center;
+}
+
+.newsletter > .para{
+    font-size: 15px;
+    width: 500px;
+    text-align: center;
+}
+
+.newsletter > .subscribe{
+    display: flex;
+    gap: 15px;
+}
+
+.newsletter > .subscribe > .mail-img{
+    height: 20px;
+    position: relative;
+    left: 50px;
+    top: 12px;
+}
+
+.newsletter > .subscribe > .email{
+    padding: 15px 50px;
+    background-color: rgba(45, 45, 158, 0.597);
+    color: #ffffff;
+    border: none;
+    border-radius: 30px;
+    width: 400px;
+}
+
+.newsletter > .subscribe > .subscribe-btn{
+     color:  rgba(35, 35, 177, 0.652);
+     border-radius: 20px;
+     border: none;
+     padding: 15px 35px;
+    display: flex;
+    font-weight: 600;
+}
+
+
+/* footer */
+.footer{
+     padding-top: 50px;
+     display: flex;
+     justify-content: space-between;
+   
+}
+
+.footer > .left-footer{
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+     padding-left: 50px;
+     
+}
+
+.footer > .left-footer > img{
+     height: 50px;
+     display: flex;
+     align-self: flex-start;
+}
+
+.footer > .left-footer > .social-imgs{
+     display: flex;
+     gap: 20px;
+}
+
+.footer > .left-footer > .social-imgs > img{
+    height: 40px;
+}
+
+.footer > .left-footer > .para{
+    width: 250px;
+    line-height: 25px;
+}
+
+.footer > .right-footer{
+    
+    display: flex;
+     gap: 150px;
+     padding-right: 60px;
+  
+}
+
+.footer > .right-footer > div > h1{
+   
+     font-size: 18px;
+     font-weight: 200;
+}
+
+.footer > .right-footer > div > .lists{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding-top: 20PX;
+   
+}
