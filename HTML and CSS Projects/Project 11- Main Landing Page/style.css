@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow-x: hidden;
+    margin: auto;
+    background-color: #0D0D0D;
+    color: #ffffff;
+}
+
+/* navbar */
+.navbar{
+     display: flex;
+     justify-content: space-evenly;
+     padding-top: 70px;
+}
+
+.navbar > .main-img{
+    position: relative;
+    top: -190px; 
+}
+
+.navbar > .overview{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+} 
+
+.navbar > .overview > .item{
+    display: flex;
+    gap: 70px;
+    list-style-type: none;
+} 
+
+.navbar > .overview > .item > button{
+    background-color: #242B2E;
+    color: #ffffff;
+    border: none;
+    padding: 15px 50px;
+    border-radius: 10px;
+    
+}
+
+.logo-img{
+  display: flex;
+  justify-content: space-evenly;
+   
+}
+
+/* specs */
+.specs{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+      height: 100vh;
+      width: 100%;
+}
+
+/* case */
+.case{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     height: 70vh;
+     width: 100%;
+}
+
+/* immerse */
+.immerse{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     height: 70vh;
+     width: 100%;
+}
+
+/* choose style */
+.style{
+      display: grid;
+      grid-template-columns: repeat(3,1fr);
+      
+      
+}
+
+/* footer */
+.footer{
+     display: flex;
+}
