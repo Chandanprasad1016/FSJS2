@@ -30,6 +30,8 @@
 
 [Project 6](./HTML%20and%20CSS%20Projects/Project%206/readme.md)
 
+[Project 7](./HTML%20and%20CSS%20Projects/Project%207-%20Credit%20Card%20Landning%20Page/readme.md)
+
 [Project 8- Hosting Landing Page](./HTML%20and%20CSS%20Projects/Project%208-%20Hosting%20Landing%20Page/readme.md)
 
 [Project 9- Game Landing Page](./HTML%20and%20CSS%20Projects/Project%209-%20Game%20Landing%20Page/readme.md)
