@@ -834,7 +834,7 @@ header{
     background-size: cover;
     min-width: 1430px;
     min-height: 500px;
-    background-color: #0D0D0D;
+    /* background-blend-mode: color-dodge; */
     }
 
  
