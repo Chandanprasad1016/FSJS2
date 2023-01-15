@@ -38,12 +38,12 @@
 
 [Project 10- Real Estate Landing Page](https://real-estate-project4.netlify.app/)
 
-<!-- [Project 11- Main Landing Page]  -->
+[Project 11- Main Landing Page](./HTML%20and%20CSS%20Projects/Project%2011-Beats%20Main%20Landing%20Page/)
 
 ## Tailwind Projects
 
 [Visual Studio Clone](https://visual-studio-clone-tailwind.netlify.app/)
 
-#Html Practice
+## Html Practice
 [Heading](./Html%20Practice/headings.html)
 
